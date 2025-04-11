@@ -31,7 +31,7 @@
 - **Creazione di lande page dedicate per le promozioni stagionali**
 
 ### 5. Analisi e tracking
-- **Implementazione completa di Google Analytics** per monitorare prestazioni
+- **Implementazione** per monitorare prestazioni
 - **Reportistica mensile sull'andamento del sito** (visite, conversioni, ROI)
 - **A/B testing su prezzi e offerte** per ottimizzare la strategia commerciale
 
