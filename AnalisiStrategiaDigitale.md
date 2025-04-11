@@ -1,7 +1,5 @@
 # Analisi e Strategia Digitale
 
-Emergono diversi punti di forza e opportunità che possiamo strutturare in una strategia digitale efficace.
-
 ## Punti di forza identificati
 - **Categorizzazione chiara dei prodotti** (prima infanzia, passeggini, sicurezza auto, giochi, abbigliamento)
 - **Selezione curata di brand prestigiosi** (Cybex, Inglesina, Nuna, Joye)
